@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+.poster{
+    color: darkorange;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: smaller;
+    margin-left: 10px;
+}
+.dog{
+    border: 10px solid gray;
+    width: 80%;
+}
